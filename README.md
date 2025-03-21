@@ -175,7 +175,7 @@ mcp install server.py
 ```
 
 Alternatively, you can test it with the MCP Inspector:
-
+Use this for the vscode 
 ```bash
 mcp dev server.py
 ```
