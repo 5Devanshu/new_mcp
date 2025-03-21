@@ -22,7 +22,7 @@ NEWS_SITES = {
     "arstechnica": "https://arstechnica.com",
     "techcrunch": "https://techcrunch.com",
     "bbc": "https://www.bbc.com/news",
-    "ipl": "https://www.iplt20.com/news"
+    "sports": "https://www.iplt20.com/news"
 }
 
 class NewsDB:
