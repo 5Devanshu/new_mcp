@@ -175,7 +175,7 @@ mcp install server.py
 ```
 
 Alternatively, you can test it with the MCP Inspector:
-Use this for the vscode 
+##### Use this for the vscode 
 ```bash
 mcp dev server.py
 ```
@@ -211,4 +211,4 @@ Feel free to open issues or submit pull requests to improve this project.
 ## License
 
 This project is licensed under the MIT License.
-```
+
