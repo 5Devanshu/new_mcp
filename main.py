@@ -21,7 +21,8 @@ USER_AGENT = "news-app/1.0"
 NEWS_SITES = {
     "arstechnica": "https://arstechnica.com",
     "techcrunch": "https://techcrunch.com",
-    "bbc": "https://www.bbc.com/news"
+    "bbc": "https://www.bbc.com/news",
+    "ipl": "https://www.iplt20.com/news"
 }
 
 class NewsDB:
